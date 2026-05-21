@@ -1,0 +1,25 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Agent / planning artifacts
+agents.md
+.planning/
+.opencode/
+
+# Env and secrets
+.env
+.env.local
+.env.*.local
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+dist/
+build/
+
+# Logs
+*.log
+logs/
